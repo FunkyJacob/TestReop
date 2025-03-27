@@ -1,6 +1,7 @@
 using UnityEngine;
 
-public class Susan-script
+public class SusanScript
 {
     
 }
+
